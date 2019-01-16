@@ -1,3 +1,3 @@
 # AndroidProjects
 
-Repository with my android study projects
+Repository with my study projects under Android development
